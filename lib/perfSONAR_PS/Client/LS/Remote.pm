@@ -1,6 +1,6 @@
 package perfSONAR_PS::Client::LS::Remote;
 
-use version; our $VERSION = qv("0.01");
+our $VERSION = 0.01;
 
 use fields 'URI', 'CONF', 'NAMESPACES', 'CHUNK', 'ALIVE', 'FIRST';
 
