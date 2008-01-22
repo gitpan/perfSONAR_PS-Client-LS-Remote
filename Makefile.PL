@@ -8,9 +8,9 @@ WriteMakefile(
         "strict" => 0,
         "warnings" => 0,
 	"Log::Log4perl" => 1.00,
-	"perfSONAR_PS::Common" => 0.05,
-	"perfSONAR_PS::Transport" => 0.05,
-	"perfSONAR_PS::Messages" => 0.05,
-	"perfSONAR_PS::Client::Echo" => 0.05,
+	"perfSONAR_PS::Common" => 0.06,
+	"perfSONAR_PS::Transport" => 0.06,
+	"perfSONAR_PS::Messages" => 0.06,
+	"perfSONAR_PS::Client::Echo" => 0.06,
     }
 );
